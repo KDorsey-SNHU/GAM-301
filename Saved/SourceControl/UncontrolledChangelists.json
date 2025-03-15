@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"U:/UnrealProjects/ModOneTwo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"U:/UnrealProjects/ModOneTwo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Maps/TestEnvironment.umap",
+				"U:/UnrealProjects/ModOneTwo/Content/Inputs/Input_Movement.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Inputs/Mapping_Player.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Player/BP_PlayerController.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Player/BP_PlayerCharacter.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Interfaces/Interface_Interact.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Interactables/Interact.uasset"
 			]
 		}
 	]
