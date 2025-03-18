@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Mapping_Player.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Movement.uasset",
@@ -174,6 +175,16 @@
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Player.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_Player.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/1/32/B8ZSRFZ0KFRHI1BQFIX2KA.uasset"
+=======
+				"U:/UnrealProjects/ModOneTwo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Maps/TestEnvironment.umap",
+				"U:/UnrealProjects/ModOneTwo/Content/Inputs/Input_Movement.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Inputs/Mapping_Player.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Player/BP_PlayerController.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Player/BP_PlayerCharacter.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Interfaces/Interface_Interact.uasset",
+				"U:/UnrealProjects/ModOneTwo/Content/Interactables/Interact.uasset"
+>>>>>>> e0468665672dab6bff93895bdccaa9afb30237de
 			]
 		}
 	]
