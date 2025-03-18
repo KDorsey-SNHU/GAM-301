@@ -5,15 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Mapping_Player.uasset",
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Player.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Movement.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Look.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Interact.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_PlayerChar.uasset",
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_Player.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_Gamemode.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_PlayerController.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Interfaces/Interface_Interact.uasset",
@@ -163,8 +160,20 @@
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/A/40/8Y3M9RC8QXVYZ6IL6Z9ZQN.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/D/IX/LQ2SDHVHW7NRJLJO8BYQJT.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/6/UO/PBPSNIDZ1XXA4O2RJEUKBR.uasset",
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/1/32/B8ZSRFZ0KFRHI1BQFIX2KA.uasset",
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/TEST_MAP.umap"
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/TEST_MAP.umap",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Interactables/BP_CollectablePickup.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Interactables/BP_Physics_Pickup.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/6/A4/O1TBF3HAGTD1CCM7SJSWNX.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/5/CI/KH43Z7T7S4R5SRQ23ZL564.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/8/80/HTMNZEDEBFW8PXH25UM5N6.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/8/DJ/4KZ48XO3QO5R0GN8HAR6KZ.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/D/ZB/XBRDVKUE532K3T59G0ZFLM.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/6/A7/4XILQQU3VYYTGD8U853QXN.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Inputs/Input_Player.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/Player/BP_Player.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5/Content/__ExternalActors__/TEST_MAP/1/32/B8ZSRFZ0KFRHI1BQFIX2KA.uasset"
 			]
 		}
 	]
