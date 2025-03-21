@@ -2364,3 +2364,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.21-18.41.08:138][215]AssetCheck: /Game/Maps/TestEnvironment Validating asset
 [2025.03.21-18.41.08:215][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.21-18.41.08:215][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7381.152832, Update Interval: 324.392212
+[2025.03.21-18.45.01:733][138]LogAssetRegistry: Error: Package is unloadable: C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2025.03.21-18.45.54:999][298]LogAssetRegistry: Error: Package is unloadable: C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2025.03.21-18.47.10:669][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7743.684082
+[2025.03.21-18.47.11:670][528]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-18.47.11:670][528]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7744.351074, Update Interval: 352.281860

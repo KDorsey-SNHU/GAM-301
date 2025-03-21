@@ -7,11 +7,15 @@
 			"files": [
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Interactables/AnimatedInteractibles/BP_Door.uasset",
+<<<<<<< HEAD
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Enemy/Turret/BP_Turret.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Player/BP_PlayerCharacter.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Player/BP_PlayerChar.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Enemy/Turret/BP_TurretProjectile.uasset"
+=======
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap"
+>>>>>>> ef96fc80ee2ad8df8eef7ceb03bb039b85dde432
 			]
 		}
 	]
