@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Interactables/AnimatedInteractibles/BP_Door.uasset",
-				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap"
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Maps/TestEnvironment.umap",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Autumn/Documents/Unreal Projects/MyProject 5.5 5.5/Content/Interactables/AnimatedInteractibles/BP_Button.uasset"
 			]
 		}
 	]
